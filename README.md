@@ -75,6 +75,21 @@ Before finalizing, compare the edited image against the original and verify:
 FINAL OUTPUT:
 Return ONLY the edited 4K figure.
 
+📥 For your specific type of request
+SPECIFIC EDIT:
+
+In panel (E), remove ONLY the text/header:
+"Values from Table 1 / tradeoff_table.csv:"
+
+IMPORTANT:
+- Keep the entire table below this text.
+- Keep all table values, column headers, borders, and formatting.
+- Do NOT remove the table itself.
+- Do NOT change any colors anywhere in the figure.
+- Do NOT modify panels (A), (B), (C), (D), (F), or (G).
+- Keep everything else exactly identical to the uploaded original.
+- Output at 4096 px wide or higher while preserving the original aspect ratio.
+
 Do not redesign the figure.
 Do not change colors.
 Do not change scientific content.
